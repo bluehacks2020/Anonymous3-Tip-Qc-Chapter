@@ -27,7 +27,7 @@ INSTALLATION GUIDE
 3. Feel free to Explore and contribute and make changes
 
 *************************** 
-APP GUIDLINES
+APP GUIDELINES
 
 ***************************
 
